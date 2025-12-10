@@ -95,7 +95,6 @@ This approach combines institutional economics, structural embeddings, and moder
 ```
 Vallarino, D., & Loaiza Keel, C. (2025).
 Institutional Distance, Developmental Elasticity, and OECD Convergence.
-Inter-American Development Bank.
 ```
 
 ---
