@@ -35,7 +35,7 @@ README.md             → This file
 - seaborn  
 - umap-learn  
 
-All computation is performed in Python. R is **not used** in this project.
+All computation is performed in Python.
 
 ---
 
