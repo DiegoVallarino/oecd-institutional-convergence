@@ -1,9 +1,9 @@
 # Institutional Distance, Developmental Elasticity, and OECD Convergence  
-**Replication Package — Vallarino & Loaiza Keel (2025)**
+**Replication Package — Vallarino (2025)**
 
 This repository contains all replication materials for the paper  
 **"Institutional Distance, Developmental Elasticity, and OECD Convergence"**  
-by Diego Vallarino and Carlos Loaiza Keel (2025).
+by Diego Vallarino (2025).
 
 The repo includes data, Python code, LaTeX files, and the computational workflow used to generate the institutional embedding, distance measures, counterfactual simulations, and the Expected Developmental Shift (EDS).
 
@@ -93,7 +93,7 @@ This approach combines institutional economics, structural embeddings, and moder
 ## Citation
 
 ```
-Vallarino, D., & Loaiza Keel, C. (2025). Institutional Distance, Developmental Elasticity, and OECD Convergence. Working Paper
+Vallarino, D. (2025). Institutional Distance, Developmental Elasticity, and OECD Convergence. Working Paper
 ```
 
 ---
